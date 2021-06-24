@@ -1,0 +1,140 @@
+body{
+    margin:0;
+    font-family: helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.header{
+    background:#3b5998;
+    width:100%;
+    height:85px;
+}
+.logo{
+    width:50%;
+    padding-top: 32px;
+    float:left;
+
+}
+.login{
+    width:50%;
+    float:left
+}
+.logotext{
+    color: white;
+    font-size: 35;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 160px;
+}
+
+.login-label{
+    color:white;
+    font-size:11px
+    
+}
+.login-control{
+    margin-left:115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten-account{
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+}
+.login-btn{
+    background-color:#4267b2;   
+    color:white;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+.login-btn:hover{
+    background-color:rgb(50, 11, 192);
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width:100%;
+    height: 525px;
+    padding-top: 15px;
+}
+
+.left-body{
+    width:50%;
+    float:left;
+    padding-left: 134px;
+}
+.right-body{
+    width:39%;
+    float:left;
+}
+.para-left-body{
+    font-weight: bold;
+    font-size:21px;
+    color:#3b5998 ;
+}
+.world-pic{
+    width:80%;
+}
+.text-account{
+    font-size: 32px;
+    font-weight: bold; 
+}
+.text-free{
+    font-size: 16px;
+    font-weight: lighter;
+    margin-top:5px;
+
+
+}
+.name{
+    border-color: honeydew;
+    margin-top: 10px;
+    height: 30px;
+    width: 210px;
+}
+.gmail, .password{
+    height: 30px;
+    width: 430px;
+    border-color: honeydew;
+    margin-top: 10px;
+}
+.text-birthday{
+    padding-top: 15px;
+    padding-left: 5px;
+}
+.text-birth{
+    font-size: 12px;
+    color:#3b5998;
+}
+.dob{
+    height: 30px;
+    border-color: honeydew;
+    padding: 6px;
+}
+.gender-radio-btn{
+    padding: 10px
+
+}
+.text-policy{
+    font-size: 12px;
+    padding: 10px;
+    color: #3b5998;
+}
+.text-policy-link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.Singup-btm{
+    height: 35px;
+    width: 170px;
+    background-color:rgb(72, 160, 72);
+    color:honeydew;
+    font-size: 20px;
+    margin: 10px;
+}
+.Singup-btm:hover{
+    background-color:rgb(20, 194, 20);
+}
